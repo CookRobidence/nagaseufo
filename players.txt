@@ -51,6 +51,7 @@ ranposdx
 ref_blp156
 rei_k632
 robodasu
+roza-ggx
 r_dr_r4
 sindash_jp
 supanoji
@@ -65,6 +66,7 @@ touzi-yamato
 Tsukineko_4675
 TTT_710
 TUBUMI
+uinya-n
 ume-key312
 VALPURGIS_0089
 yokoshima677
